@@ -20,7 +20,6 @@ This website inludes a trial to create same oiginal page for Pleo company.
 -git remote -v to comfirm they are linked.
 
 -git push -u origin main.
-
 ## Link to project
 https://wambui-123.github.io/About-me/
 
