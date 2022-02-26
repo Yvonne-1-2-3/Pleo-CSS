@@ -21,11 +21,7 @@ This website inludes a trial to create same oiginal page for Pleo company.
 
 -git push -u origin main.
 ## Link to project
-https://wambui-123.github.io/About-me/
-
-## Link to other projects created
-[Link to Technology](https://wambui-123.github.io/Tech/)
-
+https://yvonne-1-2-3.github.io/Pleo-CSS/
 ## License 
 MIT License
 
